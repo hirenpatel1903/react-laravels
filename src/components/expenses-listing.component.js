@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import axios from 'axios';
 import Table from 'react-bootstrap/Table';
-import ExpenseTableRow from './ExpenseTableRow';
+import ExpenseTableRow from '../ExpenseTableRow';
 
 
 export default class ExpenseList extends Component {
